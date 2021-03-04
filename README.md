@@ -1,2 +1,1 @@
-# webview
-convert a website into an android app using android studio
+webview in android allows apps to display webcontent.
